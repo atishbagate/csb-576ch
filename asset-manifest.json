@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://atishbagate.github.io/csb-576ch/static/js/main.2d6884f5.chunk.js",
+    "main.js.map": "https://atishbagate.github.io/csb-576ch/static/js/main.2d6884f5.chunk.js.map",
+    "runtime-main.js": "https://atishbagate.github.io/csb-576ch/static/js/runtime-main.1b4f9478.js",
+    "runtime-main.js.map": "https://atishbagate.github.io/csb-576ch/static/js/runtime-main.1b4f9478.js.map",
+    "static/js/2.0f2380dc.chunk.js": "https://atishbagate.github.io/csb-576ch/static/js/2.0f2380dc.chunk.js",
+    "static/js/2.0f2380dc.chunk.js.map": "https://atishbagate.github.io/csb-576ch/static/js/2.0f2380dc.chunk.js.map",
+    "index.html": "https://atishbagate.github.io/csb-576ch/index.html",
+    "static/js/2.0f2380dc.chunk.js.LICENSE.txt": "https://atishbagate.github.io/csb-576ch/static/js/2.0f2380dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b4f9478.js",
+    "static/js/2.0f2380dc.chunk.js",
+    "static/js/main.2d6884f5.chunk.js"
+  ]
+}
